@@ -1,2 +1,3 @@
+include ':libTest'
 include ':app'
 rootProject.name = "AudioVidio"
